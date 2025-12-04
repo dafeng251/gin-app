@@ -3,12 +3,12 @@ server:
   mode: debug  # debug, release, test
 
 mysql:
-  host: "127.0.0.1"
+  host: "116.204.135.61"
   port: 3306
-  username: "root"
-  password: "password123"
-  dbname: "gin_admin"
+  username: "gin-app"
+  password: "BwMfPasFwSD4Nexy"
+  dbname: "gin-app"
   config: "charset=utf8mb4&parseTime=True&loc=Local"
 
 jwt:
-  signing_key: "my_secret_key"
+  signing_key: "rbIKH4Pq5eLt7raeFkSgD3CcqIuAD8cIotsPjPhzXHu8ck0xFxAUeUf55zqsjJtg"
